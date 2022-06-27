@@ -1,0 +1,132 @@
+/* TODAS AS PAGINAS | HEADER - INICIO */
+.logo-edit {
+    padding: 0;
+    margin: 0;
+}
+
+#nomePag {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.style-edit {
+    max-height: 600px;
+}
+
+.style-edit a {
+    padding: 0px;
+    margin: 10px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+/* TODAS AS PAGINAS | HEADER - FIM */
+
+
+
+/* PAGINA INDEX | CARROSSEL  - INICIO */
+.carousel-slide-edit {
+    max-height: 100% !important;
+}
+
+/* PAGINA INDEX | CARROSSEL - FIM */
+
+
+
+/* PAGINA INDEX | TEXT - INICIO */
+.block-page {
+    width: 100%;
+    padding: 50px 50px 5px 50px;
+}
+
+.titulo h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 55px;
+}
+
+.textos p {
+    text-align: justify;
+    font-size: 20px;
+    text-indent: 40px;
+}
+
+/* PAGINA INDEX | TEXT - FIM */
+
+
+
+/* PAGINA INDEX | CARDS - INICIO */
+.edit-container {
+    width: 100%;
+}
+
+.cards-back {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 75px;
+    background-color: rgb(43, 43, 43);
+}
+
+.cards-back-card {
+    justify-content: center;
+    margin: 25px;
+    margin-top: 0;
+}
+
+/* PAGINA INDEX | CARDS - FIM */
+
+
+
+/* PAGINA INDEX | VIDEO - INICIO*/
+.video-back-edit {
+    display: flex;
+    width: 100%;
+    background-color: rgba(182, 182, 182, 0.55);
+    padding: 30px;
+}
+
+.video-border {
+    border-top: 5px solid rgba(172, 172, 172, 0.7);
+    border-bottom: 5px solid rgba(172, 172, 172, 0.7);
+}
+
+/* PAGINA INDEX | VIDEO - FIM*/
+
+
+
+/* PAGINA CONTATO | FORMULÁRIO -INICIO */
+.block-page form {
+    margin: 0px 190px;
+    padding: 25px;
+    border: 1px solid rgba(240, 120, 8, 0.25);
+    border-radius: 18px;
+}
+
+/* PAGINA CONTATO | FORMULÁRIO -FIM */
+
+
+
+/* PAGINA CONTATO | MAPS - INICIO */
+
+.contact-maps {
+    display: flex;
+    padding: 55px;
+    height: 750px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(196, 196, 196, 0.253);
+}
+
+.contact-maps iframe {
+    border-radius: 10px;
+}
+
+
+/* PAGINA CONTATO | MAPS - FIM */
